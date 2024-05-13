@@ -11,4 +11,4 @@ spec:
   - gitops-plugin
   - pipelines-console-plugin
   - netobserv-plugin
-  - ossmconsole-plugin
+  - ossmconsole
